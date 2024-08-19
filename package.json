@@ -1,0 +1,18 @@
+{
+  "name": "ask-the-audience",
+  "version": "1.0.0",
+  "description": "Ask the Audience web app for BTUI'24 Quiz Comps",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NEJAN",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "uuid": "^10.0.0"
+  }
+}
