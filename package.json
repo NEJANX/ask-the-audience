@@ -1,0 +1,20 @@
+{
+  "name": "ask-the-audience",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "tracker": "node tracker"
+  },
+  "keywords": [],
+  "author": "NEJAN",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "uuid": "^10.0.0"
+  }
+}
