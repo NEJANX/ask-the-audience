@@ -14,5 +14,4 @@
 `npm run remote` or `node remote`
 <br><br>
 #### Note: The QR in the public/assets/ is directed to https://ata.rccs.nejan.serendibytes.com
-<br><br>
 #### Production: https://ata.rccs.nejan.serendibytes.com
