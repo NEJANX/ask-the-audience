@@ -10,7 +10,7 @@ const { exit } = require("process");
     output: process.stdout
   });
 
-  const socket = io('http://localhost:3000'); 
+  const socket = io('http://ata.nejan.serendibytes.com'); 
 
   const colors = [
     chalk.red,
