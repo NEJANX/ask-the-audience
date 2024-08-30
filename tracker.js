@@ -4,7 +4,7 @@
   // Dynamically import chalk
   const chalk = (await import("chalk")).default;
 
-  const socket = io("http://localhost:3000"); // Ensure this matches the main server's URL and port
+  const socket = io("http://ata.nejan.serendibytes.com"); // Ensure this matches the main server's URL and port
 
   // Colors for different events
   const newConnectionColor = chalk.green;
